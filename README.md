@@ -1,0 +1,2 @@
+# MagicMirror
+magische mirror
